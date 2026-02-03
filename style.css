@@ -7,4 +7,9 @@ body {
     align-items: center;
     padding: 0;
     margin: 0;
+    flex-direction: column;
+}
+
+h1 {
+    padding-bottom: 5vh;
 }
